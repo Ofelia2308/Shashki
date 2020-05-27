@@ -1,0 +1,15 @@
+﻿<Window x:Class="RCheck.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RCheck"
+        mc:Ignorable="d"
+        Title="Шамишки" Height="460.273" Width="585.432" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Canvas x:Name="gPole" Background="#FFE3E4DD" HorizontalAlignment="Left" Height="400" Margin="10,10,0,0" VerticalAlignment="Top" Width="400" MouseUp="cmClick"/>
+        <Button x:Name="button" Content="Выход" HorizontalAlignment="Left" Margin="415,388,0,0" VerticalAlignment="Top" Width="147" Click="cmClose"/>
+        <Button x:Name="button2" Content="Самоход" HorizontalAlignment="Left" Margin="415,10,0,0" VerticalAlignment="Top" Width="147" Click="cmAutoRun"/>
+
+    </Grid>
+</Window>

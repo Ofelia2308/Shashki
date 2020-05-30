@@ -1,0 +1,55 @@
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\bin\Release\RCheck.exe.config
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\bin\Release\RCheck.exe
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\bin\Release\RCheck.pdb
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\obj\Release\RCheck.csprojResolveAssemblyReference.cache
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\obj\Release\MainWindow.g.cs
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\obj\Release\App.g.cs
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\obj\Release\RCheck_MarkupCompile.cache
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\obj\Release\RCheck_MarkupCompile.lref
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\obj\Release\MainWindow.baml
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\obj\Release\RCheck.g.resources
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\obj\Release\RCheck.Properties.Resources.resources
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\obj\Release\RCheck.csproj.GenerateResource.Cache
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\obj\Release\RCheck.exe
+C:\!programm\Dropbox\PROGRAMM\Лаборатория\Искусственный интеллект\RCheck\RCheck\RCheck\obj\Release\RCheck.pdb
+c:\temp\2\RCheck\RCheck\bin\Release\RCheck.exe.config
+c:\temp\2\RCheck\RCheck\obj\Release\RCheck.exe
+c:\temp\2\RCheck\RCheck\obj\Release\RCheck.pdb
+c:\temp\2\RCheck\RCheck\bin\Release\RCheck.exe
+c:\temp\2\RCheck\RCheck\bin\Release\RCheck.pdb
+c:\temp\2\RCheck\RCheck\obj\Release\RCheck.csprojResolveAssemblyReference.cache
+c:\temp\2\RCheck\RCheck\obj\Release\MainWindow.g.cs
+c:\temp\2\RCheck\RCheck\obj\Release\App.g.cs
+c:\temp\2\RCheck\RCheck\obj\Release\RCheck_MarkupCompile.cache
+c:\temp\2\RCheck\RCheck\obj\Release\RCheck_MarkupCompile.lref
+c:\temp\2\RCheck\RCheck\obj\Release\MainWindow.baml
+c:\temp\2\RCheck\RCheck\obj\Release\RCheck.g.resources
+c:\temp\2\RCheck\RCheck\obj\Release\RCheck.Properties.Resources.resources
+c:\temp\2\RCheck\RCheck\obj\Release\RCheck.csproj.GenerateResource.Cache
+c:\temp\2\RCheck\RCheck\RCheck\bin\Release\RCheck.exe.config
+c:\temp\2\RCheck\RCheck\RCheck\obj\Release\RCheck.exe
+c:\temp\2\RCheck\RCheck\RCheck\obj\Release\RCheck.pdb
+c:\temp\2\RCheck\RCheck\RCheck\bin\Release\RCheck.exe
+c:\temp\2\RCheck\RCheck\RCheck\bin\Release\RCheck.pdb
+c:\temp\2\RCheck\RCheck\RCheck\obj\Release\RCheck.csprojResolveAssemblyReference.cache
+c:\temp\2\RCheck\RCheck\RCheck\obj\Release\MainWindow.g.cs
+c:\temp\2\RCheck\RCheck\RCheck\obj\Release\App.g.cs
+c:\temp\2\RCheck\RCheck\RCheck\obj\Release\RCheck_MarkupCompile.cache
+c:\temp\2\RCheck\RCheck\RCheck\obj\Release\RCheck_MarkupCompile.lref
+c:\temp\2\RCheck\RCheck\RCheck\obj\Release\MainWindow.baml
+c:\temp\2\RCheck\RCheck\RCheck\obj\Release\RCheck.g.resources
+c:\temp\2\RCheck\RCheck\RCheck\obj\Release\RCheck.Properties.Resources.resources
+c:\temp\2\RCheck\RCheck\RCheck\obj\Release\RCheck.csproj.GenerateResource.Cache
+C:\Users\Alik\Desktop\rcheck\RCheck\bin\Release\RCheck.exe.config
+C:\Users\Alik\Desktop\rcheck\RCheck\bin\Release\RCheck.exe
+C:\Users\Alik\Desktop\rcheck\RCheck\bin\Release\RCheck.pdb
+C:\Users\Alik\Desktop\rcheck\RCheck\obj\Release\MainWindow.g.cs
+C:\Users\Alik\Desktop\rcheck\RCheck\obj\Release\App.g.cs
+C:\Users\Alik\Desktop\rcheck\RCheck\obj\Release\RCheck_MarkupCompile.cache
+C:\Users\Alik\Desktop\rcheck\RCheck\obj\Release\RCheck_MarkupCompile.lref
+C:\Users\Alik\Desktop\rcheck\RCheck\obj\Release\MainWindow.baml
+C:\Users\Alik\Desktop\rcheck\RCheck\obj\Release\RCheck.g.resources
+C:\Users\Alik\Desktop\rcheck\RCheck\obj\Release\RCheck.Properties.Resources.resources
+C:\Users\Alik\Desktop\rcheck\RCheck\obj\Release\RCheck.csproj.GenerateResource.cache
+C:\Users\Alik\Desktop\rcheck\RCheck\obj\Release\RCheck.exe
+C:\Users\Alik\Desktop\rcheck\RCheck\obj\Release\RCheck.pdb
